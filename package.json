@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/WickyNilliams/headroom.js"
+    "url": "git+https://github.com/WickyNilliams/headroom.js.git"
   },
   "keywords": [
     "header",
@@ -24,7 +24,9 @@
     "scroll",
     "menu"
   ],
-  "author": "Nick Williams",
+  "author": {
+    "name": "Nick Williams"
+  },
   "homepage": "http://wicky.nillia.ms/headroom.js",
   "license": "MIT",
   "bugs": {
@@ -41,5 +43,35 @@
     "karma-firefox-launcher": "~0.1.2",
     "karma-opera-launcher": "~0.1.0",
     "karma-safari-launcher": "~0.1.1"
-  }
+  },
+  "gitHead": "66d495814c56ab581679363a783fa0d2fc4da32e",
+  "_id": "headroom.js@0.9.3",
+  "_shasum": "6d48499a2b9883fcc0683b26f461e732f149a1fe",
+  "_from": "headroom.js@latest",
+  "_npmVersion": "2.13.2",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "wickynilliams",
+    "email": "wickynilliams@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "iduuck",
+      "email": "visualcake@me.com"
+    },
+    {
+      "name": "wickynilliams",
+      "email": "wickynilliams@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "6d48499a2b9883fcc0683b26f461e732f149a1fe",
+    "tarball": "https://registry.npmjs.org/headroom.js/-/headroom.js-0.9.3.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/headroom.js-0.9.3.tgz_1460739059888_0.5294005882460624"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/headroom.js/-/headroom.js-0.9.3.tgz"
 }
