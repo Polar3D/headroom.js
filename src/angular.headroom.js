@@ -1,3 +1,5 @@
+window.Headroom = Headroom;
+
 (function (angular, Headroom) {
 
   if(!angular) {
